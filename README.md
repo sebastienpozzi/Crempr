@@ -59,8 +59,9 @@ docker-compose up --build
 ```bash
 127.0.0.1 auth.crempr.fr app1.crempr.fr app2.crempr.fr
 ```
+4\. installer git
 
----
+5\. passer par le terminal 
 
 ## 🔑 Tester le POC
 
